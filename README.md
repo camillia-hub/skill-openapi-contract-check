@@ -11,12 +11,12 @@ A Camillia skill that compares OpenAPI contracts between base and branch, classi
 
 ## Install
 
-Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/skills/skill-openapi-contract-check/` and the agent applies it whenever a branch touches an API contract.
+Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/extensions/openapi-contract-check/` and the agent applies it whenever a branch touches an API contract.
 
 ## Contents
 
-- `skill/SKILL.md` - the procedure the agent follows
-- `skill/change-classification-table.md` - breaking / non-breaking / ambiguous decision tables
+- `extensions/openapi-contract-check/SKILL.md` - the procedure the agent follows
+- `extensions/openapi-contract-check/change-classification-table.md` - breaking / non-breaking / ambiguous decision tables
 
 ## Validate
 
